@@ -1,0 +1,302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 16331,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/wamp/www/cabelloguillermo.com.ar/Sitio/config/config.php",
+		"/D/wamp/www/cabelloguillermo.com.ar/Sitio/index.php",
+		"/D/wamp/www/mamut/v1/assets/index.html",
+		"/D/wamp/www/mamut/v1/Mamut/index.php",
+		"/D/wamp/www/mamut/v1/Mamut/js/grid3d.js",
+		"/D/wamp/www/drupal/site/sites/default/settings.php",
+		"/D/wamp/www/mamut/v1/Mamut/css/component.css",
+		"/D/wamp/www/mamut/v1/Mamut/css/demo.css",
+		"/D/wamp/www/drupal/site/htaccess",
+		"/D/wamp/www/drupal/site/.htaccess",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/wamp/www/mamut/v1/Mamut/css/hover-min.css",
+		"/D/wamp/www/mamut/v1/index.php",
+		"/D/wamp/www/mamut/v1/js/grid3d.js",
+		"/D/wamp/www/mamut/v1/assets/Hover-master/Hover-master/index.html",
+		"/D/wamp/www/mamut/v1/css/demo.css",
+		"/D/wamp/www/mamut/v1/css/component.css",
+		"/D/wamp/www/mamut/v1/assets/ShapeHoverEffectSVG/ShapeHoverEffectSVG/index.html",
+		"/D/wamp/www/mamut/v1/assets/ShapeHoverEffectSVG/ShapeHoverEffectSVG/css/component.css",
+		"/D/wamp/www/mamut/v1/assets/Hover-master/Hover-master/css/hover.css",
+		"/C/Users/Usuario/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/XLCUI25L/html5[1].js",
+		"/D/wamp/www/mamut/v1/assets/ShapeHoverEffectSVG/ShapeHoverEffectSVG/js/hovers.js",
+		"/D/wamp/www/mamut/v1/assets/ShapeHoverEffectSVG/ShapeHoverEffectSVG/js/snap.svg-min.js",
+		"/D/wamp/www/mamut/v1/assets/ShapeHoverEffectSVG/ShapeHoverEffectSVG/css/demo.css",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 2/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 2/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Usuario/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/XLCUI25L/js[1]",
+		"/D/wamp/www/terras.edu.ar/terras2/postitulos/acceso.paso1.php",
+		"/D/wamp/www/laravel-test/app/database/migrations/2014_04_06_223529_create_customers_table.php",
+		"/D/wamp/www/laravel-test/app/database/migrations/2014_04_06_223811_create_transactions_table.php",
+		"/D/wamp/www/laravel-test/index.html",
+		"/D/wamp/www/laravel/app/start/artisan.php",
+		"/D/wamp/www/laravel-test/artisan",
+		"/C/Users/Usuario/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/D/wamp/bin/php/php5.4.16/php.ini",
+		"/D/Guillermo/Pogramación/Laravel/laravel.phar",
+		"/D/Guillermo/Pogramación/Foundation/index.html",
+		"/D/wamp/www/mamut/site/css/normalize.css",
+		"/D/wamp/www/deportizate.com.ar/assets/jquery.fancybox-1.3.4/jquery.fancybox-1.3.4/index.html",
+		"/D/wamp/www/mamut/site/test",
+		"/D/wamp/www/mamut/site/large.css",
+		"/D/Guillermo/Pogramación/HTML5 Template/Html5bones/html5bones-1.3.1/html5bones-1.3.1/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"screen",
+			"placeholder",
+			"codrops-icon",
+			"pre",
+			"preload",
+			"which",
+			"dummy-text",
+			"grow-rotate",
+			"close",
+			"close-content",
+			"mina",
+			"hover",
+			"data-path-hover",
+			"The only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars",
+			"dummy-img",
+			"96",
+			"addMarker",
+			"zoom",
+			"map_canvas",
+			"f00",
+			"img/",
+			"codrops-demos",
+			"h1",
+			"codrops-header",
+			"all 0.1s linear;",
+			"0.7s",
+			"</li>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"scale(1.01);",
+			"0.1s",
+			"1s",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 16331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1456,
+								1456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"index",
+				"v1/Mamut/index.php"
+			],
+			[
+				"hover-min.css",
+				"v1/Mamut/css/hover-min.css"
+			],
+			[
+				"css",
+				"v1/Mamut/css/demo.css"
+			],
+			[
+				"grid3d.js",
+				"v1/Mamut/js/grid3d.js"
+			],
+			[
+				"comp",
+				"v1/css/component.css"
+			],
+			[
+				"config/database.php",
+				"app/config/database.php"
+			],
+			[
+				"normalize.css",
+				"css/normalize.css"
+			],
+			[
+				"normalize",
+				"css/normalize.css"
+			],
+			[
+				"test",
+				"test.html"
+			],
+			[
+				"css/styles.css",
+				"css/styles.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
