@@ -353,7 +353,7 @@
 			position: absolute;
 			left: 0;
 			top: 0;
-			padding: 4em;
+			padding: 2em;
 			left: 50%;
 			top: 50%;
 
@@ -363,10 +363,10 @@
 			*/
 			
 			width: 50em;
-			height: 13em;
+			height: 15em;
 			
 			margin-left: -25em;
-			margin-top: -6.5em;
+			margin-top: -8.5em;
 		}
 		
 			#banner header h2
