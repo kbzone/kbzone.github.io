@@ -16,26 +16,18 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "resume/index.html",
 			"settings":
 			{
-				"buffer_size": 16665,
-				"line_ending": "Windows"
+				"buffer_size": 16482,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "css/style.css",
+			"file": "resume/_layout/layout.css",
 			"settings":
 			{
-				"buffer_size": 31941,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/style-desktop.css",
-			"settings":
-			{
-				"buffer_size": 8158,
+				"buffer_size": 6925,
 				"line_ending": "Windows"
 			}
 		}
@@ -72,6 +64,11 @@
 	},
 	"file_history":
 	[
+		"/D/wamp/www/kbzone.github.io/resume/_layout/grid.css",
+		"/D/wamp/www/kbzone.github.io/css/style.css",
+		"/D/wamp/www/kbzone.github.io/index.html",
+		"/D/wamp/www/kbzone.github.io/css/style-desktop.css",
+		"/D/Guillermo/Imagenes/Nero-Danty-Formal CV2/Formal CV2/cv/index.html",
 		"/D/wamp/www/kbzone.com.ar/v2/index.html",
 		"/D/wamp/www/peloslideli/PeloSlideLi.v2.0/peloslideli.v2.0/index.html",
 		"/D/wamp/www/peloslideli/PeloSlideLi.v2.0/peloslideli.v2.0/style.css",
@@ -136,6 +133,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"cv-profile",
+			"// ",
+			".cv-item-description h6",
+			"cv-item-description",
+			"laya",
 			"#banner header",
 			"http://www.kbzone.com.ar/PeloSlideLi/Promocion/",
 			"screen",
@@ -186,35 +188,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "resume/index.html",
 					"settings":
 					{
-						"buffer_size": 16665,
+						"buffer_size": 16482,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2918,
-								2918
-							],
-							[
-								2932,
-								2932
-							],
-							[
-								2957,
-								2957
-							],
-							[
-								2982,
-								2982
+								3626,
+								3626
 							]
 						],
 						"settings":
@@ -223,61 +213,33 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 630.0,
+						"translation.y": 335.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "css/style.css",
+					"file": "resume/_layout/layout.css",
 					"settings":
 					{
-						"buffer_size": 31941,
+						"buffer_size": 6925,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5945,
-								5945
+								954,
+								916
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 4773.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "css/style-desktop.css",
-					"settings":
-					{
-						"buffer_size": 8158,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6111,
-								6111
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 4765.0,
+						"translation.y": 490.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -326,6 +288,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"resume",
+				"resume/index.html"
+			],
 			[
 				"styledes",
 				"css/style-desktop.css"
