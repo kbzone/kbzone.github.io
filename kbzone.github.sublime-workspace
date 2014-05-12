@@ -19,7 +19,7 @@
 			"file": "resume/index.html",
 			"settings":
 			{
-				"buffer_size": 18684,
+				"buffer_size": 19271,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +43,7 @@
 			"file": "resume/layout/layout.css",
 			"settings":
 			{
-				"buffer_size": 6327,
+				"buffer_size": 6617,
 				"line_ending": "Windows"
 			}
 		},
@@ -59,15 +59,15 @@
 			"file": "resume/layout/js/scripts.js",
 			"settings":
 			{
-				"buffer_size": 8149,
+				"buffer_size": 8349,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "resume/envia-mail.php",
+			"file": "/D/wamp/www/kbzone.com.ar/v2/envia-mail.php",
 			"settings":
 			{
-				"buffer_size": 38,
+				"buffer_size": 468,
 				"line_ending": "Windows"
 			}
 		},
@@ -112,6 +112,7 @@
 	},
 	"file_history":
 	[
+		"/D/wamp/www/kbzone.github.io/resume/envia-mail.php",
 		"/D/wamp/www/kbzone.github.io/resume/layout/js/validity/jquery.validity.js",
 		"/D/wamp/www/kbzone.github.io/resume/layout/js/flexslider/jquery.flexslider.min.js",
 		"/D/wamp/www/kbzone.github.io/resume/layout/js/imagebox/jquery.imagebox.min.js",
@@ -187,6 +188,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"float: none",
+			"cv-profile",
+			"http://kbzone.com.ar",
+			"_POST",
+			"formstatus",
+			"cv-item-details",
+			"motivo",
 			"send",
 			".js",
 			"40",
@@ -270,7 +278,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -278,15 +286,15 @@
 					"file": "resume/index.html",
 					"settings":
 					{
-						"buffer_size": 18684,
+						"buffer_size": 19271,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								18589,
-								18579
+								19255,
+								19255
 							]
 						],
 						"settings":
@@ -295,7 +303,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 7392.0,
+						"translation.y": 7400.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -359,15 +367,15 @@
 					"file": "resume/layout/layout.css",
 					"settings":
 					{
-						"buffer_size": 6327,
+						"buffer_size": 6617,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3891,
-								3891
+								6121,
+								6121
 							]
 						],
 						"settings":
@@ -376,8 +384,8 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 3860.0,
+						"translation.x": 9374.0,
+						"translation.y": 4983.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -421,20 +429,22 @@
 					"file": "resume/layout/js/scripts.js",
 					"settings":
 					{
-						"buffer_size": 8149,
+						"buffer_size": 8349,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7405,
-								7419
+								7095,
+								7095
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -444,18 +454,18 @@
 				},
 				{
 					"buffer": 6,
-					"file": "resume/envia-mail.php",
+					"file": "/D/wamp/www/kbzone.com.ar/v2/envia-mail.php",
 					"settings":
 					{
-						"buffer_size": 38,
+						"buffer_size": 468,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								36,
-								36
+								254,
+								254
 							]
 						],
 						"settings":
@@ -486,7 +496,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
