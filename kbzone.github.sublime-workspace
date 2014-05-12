@@ -19,15 +19,63 @@
 			"file": "resume/index.html",
 			"settings":
 			{
-				"buffer_size": 16482,
+				"buffer_size": 18684,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "resume/_layout/layout.css",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6925,
+				"buffer_size": 586,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resume/index-original.html",
+			"settings":
+			{
+				"buffer_size": 11539,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resume/layout/layout.css",
+			"settings":
+			{
+				"buffer_size": 6327,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resume/style.css",
+			"settings":
+			{
+				"buffer_size": 215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resume/layout/js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 8149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resume/envia-mail.php",
+			"settings":
+			{
+				"buffer_size": 38,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resume/layout/js/plugins.js",
+			"settings":
+			{
+				"buffer_size": 1397,
 				"line_ending": "Windows"
 			}
 		}
@@ -64,7 +112,13 @@
 	},
 	"file_history":
 	[
+		"/D/wamp/www/kbzone.github.io/resume/layout/js/validity/jquery.validity.js",
+		"/D/wamp/www/kbzone.github.io/resume/layout/js/flexslider/jquery.flexslider.min.js",
+		"/D/wamp/www/kbzone.github.io/resume/layout/js/imagebox/jquery.imagebox.min.js",
 		"/D/wamp/www/kbzone.github.io/resume/_layout/grid.css",
+		"/D/wamp/www/kbzone.github.io/resume/_layout/layout.css",
+		"/D/wamp/www/kbzone.github.io/index-kbzone.html",
+		"/D/wamp/www/kbzone.github.io/resume/_layout/layout-original.css",
 		"/D/wamp/www/kbzone.github.io/css/style.css",
 		"/D/wamp/www/kbzone.github.io/index.html",
 		"/D/wamp/www/kbzone.github.io/css/style-desktop.css",
@@ -133,6 +187,34 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"send",
+			".js",
+			"40",
+			"send.php",
+			"contact-form",
+			".php",
+			"Consulta",
+			"Subject",
+			"Your e-mail address",
+			"Your name",
+			"portfolio-items",
+			"flexslider",
+			"_content",
+			"hide-on-phone",
+			"_layout",
+			"_image",
+			"_content",
+			"content",
+			"_layout",
+			"layo",
+			".contact-info",
+			".span3",
+			"span6",
+			"Competencia básica profesional",
+			"fluent",
+			"native speaker",
+			"avanzado",
+			"strong",
 			"cv-profile",
 			"// ",
 			".cv-item-description h6",
@@ -188,7 +270,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -196,15 +278,15 @@
 					"file": "resume/index.html",
 					"settings":
 					{
-						"buffer_size": 16482,
+						"buffer_size": 18684,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3626,
-								3626
+								18589,
+								18579
 							]
 						],
 						"settings":
@@ -213,25 +295,115 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 335.0,
+						"translation.y": 7392.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "resume/_layout/layout.css",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 6925,
+						"buffer_size": 586,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								954,
-								916
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resume/index-original.html",
+					"settings":
+					{
+						"buffer_size": 11539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1720,
+								1728
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resume/layout/layout.css",
+					"settings":
+					{
+						"buffer_size": 6327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3891,
+								3891
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3860.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resume/style.css",
+					"settings":
+					{
+						"buffer_size": 215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							],
+							[
+								159,
+								159
+							],
+							[
+								192,
+								192
 							]
 						],
 						"settings":
@@ -239,7 +411,85 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 490.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resume/layout/js/scripts.js",
+					"settings":
+					{
+						"buffer_size": 8149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7405,
+								7419
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resume/envia-mail.php",
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resume/layout/js/plugins.js",
+					"settings":
+					{
+						"buffer_size": 1397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								603,
+								610
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -288,6 +538,38 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"scripts.js",
+				"resume/layout/js/scripts.js"
+			],
+			[
+				"jquery.validity.js",
+				"resume/layout/js/validity/jquery.validity.js"
+			],
+			[
+				"jquery.flexslider.min.js",
+				"resume/layout/js/flexslider/jquery.flexslider.min.js"
+			],
+			[
+				"jquery.imagebox.min.js",
+				"resume/layout/js/imagebox/jquery.imagebox.min.js"
+			],
+			[
+				"plugins.js",
+				"resume/layout/js/plugins.js"
+			],
+			[
+				"style",
+				"resume/style.css"
+			],
+			[
+				"layo",
+				"resume/layout/layout.css"
+			],
+			[
+				"grid",
+				"resume/_layout/grid.css"
+			],
 			[
 				"resume",
 				"resume/index.html"
