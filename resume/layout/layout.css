@@ -147,6 +147,12 @@
   margin: 0 0 5px 0;
 }
 
+.cv-item-details img.check
+{
+  vertical-align: middle;
+}
+
+
 .skill
 {
   margin-bottom:40px;
@@ -315,6 +321,7 @@
 #contact-form
 {
   overflow:hidden;
+  margin:20px 0 0;
 }
 
 #contact-form fieldset
@@ -327,6 +334,10 @@
 {
   margin-bottom:0;
 }
+  #contact-form p#formstatus img
+  {
+    vertical-align: middle;
+  }
 
 #contact-form textarea
 {

@@ -37,9 +37,11 @@ var _0x2081 = ["\x6A\x51\x75\x65\x72\x79", "\x73\x74\x61\x72\x74", "\x76\x61\x6C
                 var _0xbb6fx6 = _0xbb6fx1(this)[_0x2081[38]]();
                 _0xbb6fx1[_0x2081[47]]({
                     type: _0x2081[39],
+                    dataType: 'jsonp',
                     url: 'http://www.kbzone.com.ar/envia-mail.php',
                     data: _0xbb6fx6,
                     success: function (_0xbb6fx7) {
+                        /*
                         _0xbb6fx1(document)[_0x2081[46]](function (_0xbb6fx8, _0xbb6fx9, _0xbb6fxa) {
                             if (_0xbb6fx7 == _0x2081[41]) {
                                 result = _0x2081[42];
@@ -49,6 +51,8 @@ var _0x2081 = ["\x6A\x51\x75\x65\x72\x79", "\x73\x74\x61\x72\x74", "\x76\x61\x6C
                             };
                             _0xbb6fx1(_0x2081[45])[_0x2081[44]](result);
                         });
+                        */
+                        _0xbb6fx1(_0x2081[45])[_0x2081[44]](_0xbb6fx7['result']);
                     }
                 });
                 return false;
