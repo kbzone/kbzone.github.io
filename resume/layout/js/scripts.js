@@ -60,3 +60,13 @@ var _0x2081 = ["\x6A\x51\x75\x65\x72\x79", "\x73\x74\x61\x72\x74", "\x76\x61\x6C
         });
     });
 })(window[_0x2081[0]]);
+
+$(document).ready(function() {
+    $('.canvas').particles({
+        connectParticles: true,
+        color: '#e5e5e5',
+        size: 3,
+        maxParticles: 400,
+        speed: 0.8
+    });
+});

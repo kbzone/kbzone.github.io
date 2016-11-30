@@ -1,11 +1,36 @@
+html
+{
+    min-height:100%;/* make sure it is at least as tall as the viewport */
+    position:relative;
+}
+
+body
+{
+    height:100%; /* force the BODY element to match the height of the HTML element */
+}
+
+.canvas
+{
+  /*height: 100vh; 
+  width: 100vw;*/ 
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+
 .wrap
 {
   width:760px;
   padding:80px 80px 60px;
   margin:80px auto;
-  background-color:#fff;
-  -webkit-box-shadow:2px 2px 1px #606060;
-  box-shadow:2px 2px 1px #606060;
+  /*background-color:#fff;*/
+  /*-webkit-box-shadow:2px 2px 1px #606060;*/
+  /*box-shadow:2px 2px 1px #606060;*/
 }
 
 .wrap+.wrap
