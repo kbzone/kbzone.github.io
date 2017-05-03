@@ -70,3 +70,12 @@ $(document).ready(function() {
         speed: 0.8
     });
 });
+
+function momentFromNow(date)
+{
+    for (var i = 0; i < 10; i++) {
+        x[i] = new Array(20);
+    }
+    console.log(date);
+    //return moment(date).fromNow();
+}
